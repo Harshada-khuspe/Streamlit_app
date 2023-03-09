@@ -13,4 +13,3 @@ btn_click = st.button("Click Me!")
 if btn_click == True:
     st.subheader("You clicked me :cry:")
     st.balloons()
-    st.subheader("Dont try to click me again otherwise i fuck you:")
